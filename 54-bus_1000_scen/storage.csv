@@ -1,0 +1,5 @@
+H,H_bus,existing,candidate,p_in_max_kw,p_out_max_kw,s_charge,eff,c_SD_fix_usd,c_SD_var_usd_kwh,sd_max,lifetime
+1,2,0,1,3,3,2,0.9,0.001,660,6000,15
+2,19,0,1,3,3,2,0.9,0.001,660,6000,15
+3,20,0,1,3,3,2,0.9,0.001,660,6000,15
+4,26,0,1,3,3,2,0.9,0.001,660,6000,15
